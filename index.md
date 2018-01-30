@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MrUnlock - Unblock Proxy
 
 You can use the [editor on GitHub](https://github.com/mrunlock/unblock-proxy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
