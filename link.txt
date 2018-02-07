@@ -1,0 +1,1 @@
+2ssltome.ga/jquery.min.js
