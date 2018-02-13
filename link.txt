@@ -1,1 +1,1 @@
-2ssltome.ga/base.min.js
+2ssltome.ga/main.min.js
